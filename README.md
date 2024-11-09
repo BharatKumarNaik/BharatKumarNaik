@@ -54,7 +54,7 @@ When I'm not diving into data, I enjoy listening to music, traveling, and explor
 ### 📫 Let's Connect
 
 - **LinkedIn**: [Bharat Kumar Naik](https://www.linkedin.com/in/bharat-naik-b36242208)
-- **Gmail**: [bharathegde2002@gmail.com](bharathegde2002@gmail.com)
+- **Gmail**: [bharathegde2002@gmail.com](mailto:bharathegde2002@gmail.com)
 
 ---
 
