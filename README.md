@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Bharat Kumar Naik!
+![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/c4119419-25d0-4143-91e0-65f808b6d39a)
+
 
 I'm a Data Analyst at **EY India**. I specialize in **Data Analysis & Visualization** with hands-on experience in **Power BI, SQL, Python and Azure Services**. My goal is to transform data into actionable insights that drive business value.
 
